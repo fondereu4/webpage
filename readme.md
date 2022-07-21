@@ -1,5 +1,2 @@
 ## Webpage
-Welcome
-
-## Hello
-World
+Welcome to GitHub
